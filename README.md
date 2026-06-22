@@ -31,7 +31,7 @@ Target: 30mins
 - Restaurant Analysis: Insight:
 Domino's causes most delays.
 
-As an Operations Manager, i have find out restaurants with high delivery delays.
+As an Operations Manager, i have to find out restaurants with high delivery delays.
 # Finding
 1. Domino's has the highest delivery time.
 2. Orders above 50 minutes receive poor ratings.
@@ -41,5 +41,5 @@ As an Operations Manager, i have find out restaurants with high delivery delays.
 2. Monitor restaurant preparation time.
 3. Send alerts for orders exceeding 35 minutes.
 
-Dashboard- ![alt text]()
+Dashboard- ![alt text](https://github.com/Debanjan09101999/Zomato-Delay-Reduction-Analysis-/blob/main/zomato%20Analysis.png)
 
